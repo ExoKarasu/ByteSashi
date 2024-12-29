@@ -6,7 +6,7 @@ Soy **ByteSashi**, un apasionado del mundo digital y un aprendiz entusiasta en e
 
 ## 🌟 Sobre mí
 - 🎓 Técnico en nivel superior como **Analista Programador**.
-- 🛡️ Explorando y aprendiendo sobre **hacking ético** y **ciberseguridad**.
+- 🛡️ Explorando y aprendiendo sobre **hacking** y **ciberseguridad**.
 - 💻 Interesado en el desarrollo de **software** y **páginas web**.
 - 🤖 Experimentando con **scripts**, **exploits** y herramientas digitales.
 - 🚀 Mi enfoque es aprender, compartir y mejorar continuamente.
